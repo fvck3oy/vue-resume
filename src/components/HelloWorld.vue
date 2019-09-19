@@ -27,8 +27,8 @@
               </div>
             </b-col>
           </b-row>
-          <!-- <hr /> -->
-          <b-row class="mt-5 mb-5">
+          <hr />
+          <!-- <b-row class="mt-5 mb-5">
             <b-col cols="6" class="contact">
               <b-row>
                 <b-col cols="12">
@@ -51,42 +51,19 @@
                 </b-col>
               </b-row>
             </b-col>
-          </b-row>
+          </b-row>-->
           <!-- <hr /> -->
-          <b-row class="mt-5 mb-5">
-            <b-row v-b-toggle.collapse-1>
-              <b-col cols="12" class="btn-git outline-effect d-flex">
-                <div>
-                  <h4>
-                    <i class="fab fa-github"></i> Git Repository
-                  </h4>
-                </div>
-                <div>
-                  <h6 class="animated infinite flash delay-1s">Click !</h6>
-                </div>
-              </b-col>
-            </b-row>
-
-            <b-collapse id="collapse-1" class="mt-2">
-              <b-row>
-                <b-col cols="3" v-for="item in repo" v-bind:key="item.id">
-                  <a style="text-decoration:none" v-bind:href="item.url">
-                    <div class="git outline-effect">{{ item.name }}</div>
-                  </a>
-                </b-col>
-              </b-row>
-            </b-collapse>
-          </b-row>
-
           <b-row class="mt-5">
-            <b-col cols="12" class="aboutme">
+            <b-col cols="12" class="d-flex justify-contents-center align-items-center aboutme">
               <div>
-                <h4>Skills</h4>
+                <h4>
+                  <i class="fas fa-pen"></i> Skills
+                </h4>
               </div>
             </b-col>
           </b-row>
 
-          <b-row class="mt-1">
+          <b-row class="mt-1 mb-5">
             <b-col cols="12" class="skills">
               <i class="fab fa-react m-2" />
               <i class="fab fa-vuejs"></i>
@@ -103,6 +80,27 @@
               <i class="fab fa-github"></i>
             </b-col>
           </b-row>
+          <hr />
+          <b-row class="mt-5">
+            <b-col cols="12" class="d-flex justify-contents-center align-items-center aboutme">
+              <div>
+                <h4>
+                  <i class="fab fa-github"></i> Git Repository
+                </h4>
+              </div>
+            </b-col>
+          </b-row>
+
+          <b-row class="mt-2 mb-5">
+            <div class="d-md-flex" v-for="item in repo" v-bind:key="item.id">
+              <a style="text-decoration:none" v-bind:href="item.url">
+                <div class="git outline-effect">{{ item.name }}</div>
+              </a>
+            </div>
+          </b-row>
+
+          <hr />
+          <div class="updating mt-5">Updating ....</div>
         </b-container>
       </div>
     </div>
@@ -181,6 +179,9 @@ hr {
   .contact {
     font-size: 12px !important;
   }
+  .skills {
+    font-size: 20px !important;
+  }
 }
 
 @media (min-width: 576px) {
@@ -193,6 +194,9 @@ hr {
   }
   .contact {
     font-size: 14px !important;
+  }
+  .skills {
+    font-size: 20px !important;
   }
 }
 
@@ -207,6 +211,9 @@ hr {
   .contact {
     font-size: 16px !important;
   }
+  .skills {
+    font-size: 25px !important;
+  }
 }
 @media (min-width: 992px) {
   .full-name {
@@ -218,6 +225,9 @@ hr {
   }
   .contact {
     font-size: 18px !important;
+  }
+  .skills {
+    font-size: 30px !important;
   }
 }
 
@@ -231,6 +241,9 @@ hr {
   }
   .contact {
     font-size: 20px !important;
+  }
+  .skills {
+    font-size: 40px !important;
   }
 }
 
@@ -301,5 +314,8 @@ hr {
 .skills {
   color: #fff;
   font-size: 50px;
+}
+.updating {
+  color: #fff;
 }
 </style>
