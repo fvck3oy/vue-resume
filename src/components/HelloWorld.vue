@@ -10,7 +10,7 @@
             </b-col>
           </b-row>
           <b-row class="mt-5 mb-5">
-            <b-col cols="4" class="pic">
+            <b-col sm="4" class="pic mb-2 mt-2">
               <b-img
                 rounded="circle"
                 class="img-fluid"
@@ -19,7 +19,7 @@
                 src="https://scontent.fbkk12-3.fna.fbcdn.net/v/t1.0-9/70617299_2381769458577656_2519527514909442048_n.jpg?_nc_cat=102&_nc_oc=AQlRmpzhxGzrsvtSABMTTPiGtEsGCtn9JBQV6N2cPl5QE-JMPIsWymuTavJzkTyPrhI&_nc_ht=scontent.fbkk12-3.fna&oh=33f0219cf224e6f91615fc2e8846ca44&oe=5E084293"
               />
             </b-col>
-            <b-col cols="8" class="aboutme">
+            <b-col sm="8" class="aboutme">
               <div>
                 <h4>About me</h4>
                 {{aboutme}}
@@ -253,6 +253,7 @@ hr {
   background-image: url("https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.0-9/71392148_2385463934874875_6535706301882695680_o.jpg?_nc_cat=105&_nc_oc=AQmb3ei8tmWkEffURzDgrehZzwN1dWJ8LJ-79m3kYfW08wIDmNiuhYZ4svu8h6hLTtE&_nc_ht=scontent.fbkk12-2.fna&oh=b91132a80018d2f11680af4468a6524f&oe=5DF46BC2");
   background-position: center center;
   background-size: cover;
+	background-attachment: fixed;
   /* color: #fff; */
 }
 .con-inside {
