@@ -16,7 +16,7 @@
                 class="img-fluid"
                 alt="Circle image"
                 width="200px"
-                src="https://scontent.fbkk12-3.fna.fbcdn.net/v/t1.0-9/70617299_2381769458577656_2519527514909442048_n.jpg?_nc_cat=102&_nc_oc=AQlRmpzhxGzrsvtSABMTTPiGtEsGCtn9JBQV6N2cPl5QE-JMPIsWymuTavJzkTyPrhI&_nc_ht=scontent.fbkk12-3.fna&oh=33f0219cf224e6f91615fc2e8846ca44&oe=5E084293"
+                src="https://scontent.fbkk5-6.fna.fbcdn.net/v/t1.0-9/70617299_2381769458577656_2519527514909442048_n.jpg?_nc_cat=102&_nc_oc=AQmCnrhTb3HT6iCqHq9l6bEovPLDmL_QzWBrVbAXcfU7bAzPs8B1BmnNYi08kzZmzLU&_nc_ht=scontent.fbkk5-6.fna&oh=85d52188115d97ddda948439fd530547&oe=5EA67693"
               />
             </b-col>
             <b-col sm="8" class="aboutme">
@@ -119,7 +119,7 @@ export default {
       aboutme:
         "I am creative, responsible and can compose Java script to create website through my experience . I’m seeking a position desired with the developing website by Java script or career field where I can utilize my knowledge and skills along with my experience in the organization.",
       url_image:
-        "https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.0-9/71392148_2385463934874875_6535706301882695680_o.jpg?_nc_cat=105&_nc_oc=AQmb3ei8tmWkEffURzDgrehZzwN1dWJ8LJ-79m3kYfW08wIDmNiuhYZ4svu8h6hLTtE&_nc_ht=scontent.fbkk12-2.fna&oh=b91132a80018d2f11680af4468a6524f&oe=5DF46BC2"
+        "https://scontent.fbkk5-6.fna.fbcdn.net/v/t1.0-9/70617299_2381769458577656_2519527514909442048_n.jpg?_nc_cat=102&_nc_oc=AQmCnrhTb3HT6iCqHq9l6bEovPLDmL_QzWBrVbAXcfU7bAzPs8B1BmnNYi08kzZmzLU&_nc_ht=scontent.fbkk5-6.fna&oh=85d52188115d97ddda948439fd530547&oe=5EA67693"
     };
   },
   mounted() {
@@ -250,7 +250,7 @@ hr {
 .con {
   width: 100%;
   height: 100%;
-  background-image: url("https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.0-9/71392148_2385463934874875_6535706301882695680_o.jpg?_nc_cat=105&_nc_oc=AQmb3ei8tmWkEffURzDgrehZzwN1dWJ8LJ-79m3kYfW08wIDmNiuhYZ4svu8h6hLTtE&_nc_ht=scontent.fbkk12-2.fna&oh=b91132a80018d2f11680af4468a6524f&oe=5DF46BC2");
+  background-image: url("https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.0-9/71392148_2385463934874875_6535706301882695680_o.jpg?_nc_cat=105&_nc_oc=AQlPq5qe2osv5Pa6LO4p5nj4T_tWVLK7HwB-cwcu0LLNOT8CokGxJFUmHnEqMJr5ZmU&_nc_ht=scontent.fbkk5-3.fna&oh=59cb5e115b282d5972a845327e878e0d&oe=5E929FC2");
   background-position: center center;
   background-size: cover;
 	background-attachment: fixed;
