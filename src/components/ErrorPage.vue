@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <div class="d-flex justify-content-center align-items-center page">404 Erorr Not Found Page</div>
+    <div class="d-flex justify-content-center align-items-center page">404 Error Not Found Page</div>
   </div>
 </template>
 
