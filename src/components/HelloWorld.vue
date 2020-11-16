@@ -16,7 +16,7 @@
                 class="img-fluid"
                 alt="Circle image"
                 width="200px"
-                src="https://scontent.fbkk5-6.fna.fbcdn.net/v/t1.0-9/70617299_2381769458577656_2519527514909442048_n.jpg?_nc_cat=102&_nc_oc=AQmCnrhTb3HT6iCqHq9l6bEovPLDmL_QzWBrVbAXcfU7bAzPs8B1BmnNYi08kzZmzLU&_nc_ht=scontent.fbkk5-6.fna&oh=85d52188115d97ddda948439fd530547&oe=5EA67693"
+                src="https://scontent.fbkk5-6.fna.fbcdn.net/v/t1.0-9/70617299_2381769458577656_2519527514909442048_n.jpg?_nc_cat=102&ccb=2&_nc_sid=174925&_nc_eui2=AeFVi5HGltuOvqHJzGH1ohCJymBYLp_329bKYFgun_fb1vPw7NfRqyPMMJooXnEEDNkzW9TtC1IElOXC16QEE0z2&_nc_ohc=IspQZRe6hFwAX8p6Fck&_nc_ht=scontent.fbkk5-6.fna&oh=b73d591eb32d5bff0e9abaffbf9a63f3&oe=5FD7A66D"
               />
             </b-col>
             <b-col sm="8" class="aboutme">
@@ -119,7 +119,7 @@ export default {
       aboutme:
         "I am creative, responsible and can compose Java script to create website through my experience . I’m seeking a position desired with the developing website by Java script or career field where I can utilize my knowledge and skills along with my experience in the organization.",
       url_image:
-        "https://scontent.fbkk5-6.fna.fbcdn.net/v/t1.0-9/70617299_2381769458577656_2519527514909442048_n.jpg?_nc_cat=102&_nc_oc=AQmCnrhTb3HT6iCqHq9l6bEovPLDmL_QzWBrVbAXcfU7bAzPs8B1BmnNYi08kzZmzLU&_nc_ht=scontent.fbkk5-6.fna&oh=85d52188115d97ddda948439fd530547&oe=5EA67693"
+        "https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.0-9/71392148_2385463934874875_6535706301882695680_o.jpg?_nc_cat=105&ccb=2&_nc_sid=19026a&_nc_eui2=AeHtUn4WyuLOGkFhqgQ51JVbaluI33rXj_lqW4jfeteP-S38QOGKQAxCeM-caYZ3AWwNXt-3urAVg2Ud5nOYN9jP&_nc_ohc=Lbl4s8J19kkAX9tJgq8&_nc_ht=scontent.fbkk5-3.fna&oh=8483075790c5ca96adec476ad1c3ca38&oe=5FD7B6BE"
     };
   },
   mounted() {
