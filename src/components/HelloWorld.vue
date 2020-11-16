@@ -119,7 +119,7 @@ export default {
       aboutme:
         "I am creative, responsible and can compose Java script to create website through my experience . I’m seeking a position desired with the developing website by Java script or career field where I can utilize my knowledge and skills along with my experience in the organization.",
       url_image:
-        "https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.0-9/71392148_2385463934874875_6535706301882695680_o.jpg?_nc_cat=105&ccb=2&_nc_sid=19026a&_nc_eui2=AeHtUn4WyuLOGkFhqgQ51JVbaluI33rXj_lqW4jfeteP-S38QOGKQAxCeM-caYZ3AWwNXt-3urAVg2Ud5nOYN9jP&_nc_ohc=Lbl4s8J19kkAX9tJgq8&_nc_ht=scontent.fbkk5-3.fna&oh=8483075790c5ca96adec476ad1c3ca38&oe=5FD7B6BE"
+        "https://scontent.fbkk5-5.fna.fbcdn.net/v/t1.0-9/118767481_3213132485441345_4473891121915720130_o.jpg?_nc_cat=104&ccb=2&_nc_sid=730e14&_nc_eui2=AeG9FEhGer3j1WvtyO35PjFufZG9MKsHnWN9kb0wqwedYwLxrBC6EzDmaDqESHjvCADKaDteNmdCw5gGk2encN6q&_nc_ohc=j2yazInvtvkAX9rJAQ1&_nc_ht=scontent.fbkk5-5.fna&oh=406aab8cdfc8af649f56f19a8bf0f95e&oe=5FD834DF"
     };
   },
   mounted() {
@@ -250,7 +250,7 @@ hr {
 .con {
   width: 100%;
   height: 100%;
-  background-image: url("https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.0-9/71392148_2385463934874875_6535706301882695680_o.jpg?_nc_cat=105&_nc_oc=AQlPq5qe2osv5Pa6LO4p5nj4T_tWVLK7HwB-cwcu0LLNOT8CokGxJFUmHnEqMJr5ZmU&_nc_ht=scontent.fbkk5-3.fna&oh=59cb5e115b282d5972a845327e878e0d&oe=5E929FC2");
+  background-image: url("https://scontent.fbkk5-5.fna.fbcdn.net/v/t1.0-9/118767481_3213132485441345_4473891121915720130_o.jpg?_nc_cat=104&ccb=2&_nc_sid=730e14&_nc_eui2=AeG9FEhGer3j1WvtyO35PjFufZG9MKsHnWN9kb0wqwedYwLxrBC6EzDmaDqESHjvCADKaDteNmdCw5gGk2encN6q&_nc_ohc=j2yazInvtvkAX9rJAQ1&_nc_ht=scontent.fbkk5-5.fna&oh=406aab8cdfc8af649f56f19a8bf0f95e&oe=5FD834DF");
   background-position: center center;
   background-size: cover;
 	background-attachment: fixed;
