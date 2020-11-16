@@ -3,6 +3,7 @@ import Router from 'vue-router'
 import SignIn from '../components/SignIn.vue'
 import SignUp from '../components/SignUp.vue'
 import HelloWorld from '../components/HelloWorld.vue'
+import ErrorPage from '../components/ErrorPage.vue'
 Vue.use(Router)
 
 let router = new Router({
@@ -19,8 +20,12 @@ let router = new Router({
     {
       path: '/signup',
       component: SignUp
+    },
+    {
+      path: '*',
+      component: ErrorPage
     }
-  ], mode:'history'
+  ], mode: 'history'
 })
 
 

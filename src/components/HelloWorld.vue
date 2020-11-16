@@ -253,7 +253,7 @@ hr {
   background-image: url("https://scontent.fbkk5-5.fna.fbcdn.net/v/t1.0-9/118767481_3213132485441345_4473891121915720130_o.jpg?_nc_cat=104&ccb=2&_nc_sid=730e14&_nc_eui2=AeG9FEhGer3j1WvtyO35PjFufZG9MKsHnWN9kb0wqwedYwLxrBC6EzDmaDqESHjvCADKaDteNmdCw5gGk2encN6q&_nc_ohc=j2yazInvtvkAX9rJAQ1&_nc_ht=scontent.fbkk5-5.fna&oh=406aab8cdfc8af649f56f19a8bf0f95e&oe=5FD834DF");
   background-position: center center;
   background-size: cover;
-	background-attachment: fixed;
+  background-attachment: fixed;
   /* color: #fff; */
 }
 .con-inside {
